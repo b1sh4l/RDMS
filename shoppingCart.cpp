@@ -65,7 +65,7 @@ int main() {
 
 
     ShoppingCart obj1;
-
+    ShoppingCart obj2;
 
     obj1.setPlanName("Design");
 
